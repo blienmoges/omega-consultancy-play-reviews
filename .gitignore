@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.pyc
+data/
+scrape_output/
+.vscode/
+.DS_Store
+.scrape_state.json
