@@ -1,9 +1,9 @@
-google_play_scraper==1.0.4
+google-play-scraper==1.2.3
 pandas==2.0.3
 langdetect==1.0.9
 tqdm==4.66.1
 sqlalchemy==2.0.16
-psycopg2-binary==2.9.7
+psycopg2-binary==2.9.11
 python-dateutil==2.8.2
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.21.1
